@@ -1,0 +1,96 @@
+body{
+	background-color:#BED4E9;
+}
+.class1 ul li{
+	font-family: Century Gothic;
+	display: inline-block;
+	font-size: 17px;
+	padding: 10px;
+	color: #02447D;
+}
+#hai1{
+	font-family: Lucida Handwriting;
+	color : #02447D;
+	font-size : 35px;
+}
+.hai2 {
+	color:#004D91;
+	font-family: Century Gothic;
+	margin-left:120px;
+	margin-right:120px;
+	font-size: 20px;
+}
+.profil{
+	color:#004D91;
+	font-family: Century Gothic;
+	font-size: 50px;
+}
+#judul{
+	font-family: Bradley Hand ITC;
+	text-align: center;
+	font-size: 40px;
+	color: #02447D;
+	line-height: 0px;
+}
+#judul2{
+	font-family: EngraversGothic BT;
+	text-align: center;
+	font-size: 25px;
+	color: #02447D;
+}
+.foto1{
+	border-radius: 50%;
+	margin-top: 20px;
+	width: 90px;
+	height: 90px;
+	border: 6px double #073662;
+}
+.riwayat1{
+	font-family: Viner Hand ITC;
+	font-size: 35px;
+	color: #02447D;
+}
+.riwayat2{
+	font-family: Century Gothic;
+	font-size: 20px;
+	color: #02447D;
+}
+.class1{
+	background-image: url(yokbisayok.png);
+	background-size:1400px 500px;
+}
+.class2{
+	margin-top: 10px;
+	text-align: center;
+}
+.foto2{
+	border-radius: 50%;
+	width: 200px;
+	height: 200px;
+	border: 6px double #073662;
+}
+.profil{
+	text-align:center;
+}
+.pendidikan{
+	border-radius: 50%;
+	width: 200px;
+	height: 200px;
+	border: 6px double #073662;
+	text-align: left;
+	margin-left:50px;
+}
+.coba2{
+	margin-left:100px;
+}
+#pengalaman1 {
+	margin-left:50px;
+}
+.organisasi{
+	border-radius: 50%;
+	width: 200px;
+	height: 200px;
+	border: 6px double #073662;
+	text-align: left;
+	margin-left:50px;
+}
